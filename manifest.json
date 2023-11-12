@@ -1,0 +1,22 @@
+{
+  "name": "Time Timer",
+  "short_name": "Timer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "description": "Awesome Time Timer Tutorial, code available in Glitch.com",
+  "theme_color": "#FFFFFF",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://cdn.glitch.global/a4d114d0-86a7-4f80-ba12-95f3b0ba963b/icon-192x192.png?v=1699775419129",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.glitch.global/a4d114d0-86a7-4f80-ba12-95f3b0ba963b/icon-512x512.png?v=1699775408183",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

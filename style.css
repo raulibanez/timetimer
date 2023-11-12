@@ -1,0 +1,27 @@
+:root {
+  --sector-fill-color: rgba(227, 18, 48, 0.95); /* Define color for reuse */
+}
+
+body {
+  overflow: hidden; /* Prevents page scrolling */
+}
+
+body,
+html {
+  height: 100%;
+  margin: 0;
+  padding: 0; /* Ensure no padding */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+}
+
+#timer {
+  width: 100%;
+  height: 100%;
+}
+
+#sector {
+  fill: var(--sector-fill-color); /* Use CSS variable for color */
+}
