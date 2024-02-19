@@ -23,6 +23,10 @@ This section details the series of instructions provided to ChatGPT for the crea
 
 ### Add Alarm Sound
 - "Now I want it to play a sound when it finishes."
+- "How can i change the volume of the sound?"
+- "Can you change the code so it shows only a volume knob?"
+- "Can you change the code to display some text above the volume knob?"
+- "Change the code so the volume slide is displayed in the lower right corner?"
 
 ### I Downloaded an Alarm Sound from the Internet
 ### But I Want to Make Sound Alarm Shorter with FFmpeg
@@ -52,3 +56,5 @@ This section details the series of instructions provided to ChatGPT for the crea
 ### Improve README.md
 - "Make this README more informal, fun, and enjoyable, with emojis and so on..."
 - "Not so informal, something in between, please."
+
+### I have a website in html that plays a sound, how can i change the volume of the sound?
