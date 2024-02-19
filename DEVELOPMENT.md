@@ -56,5 +56,3 @@ This section details the series of instructions provided to ChatGPT for the crea
 ### Improve README.md
 - "Make this README more informal, fun, and enjoyable, with emojis and so on..."
 - "Not so informal, something in between, please."
-
-### I have a website in html that plays a sound, how can i change the volume of the sound?
