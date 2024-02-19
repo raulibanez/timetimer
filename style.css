@@ -26,8 +26,10 @@ html {
   fill: var(--sector-fill-color); /* Use CSS variable for color */
 }
 .volume-container {
-  width: 100px; /* Adjust width as needed */
-  margin: 20px; /* Adjust margin as needed */
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  width: 150px; /* Adjust width as needed */
 }
 
 input[type="range"] {
