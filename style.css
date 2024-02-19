@@ -25,3 +25,18 @@ html {
 #sector {
   fill: var(--sector-fill-color); /* Use CSS variable for color */
 }
+.volume-container {
+  position: fixed;
+  bottom: 20px;
+  right: 50px;
+  width: 150px; /* Adjust width as needed */
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}

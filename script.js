@@ -7,8 +7,13 @@ function updateSector() {
   const radius = 9.2;
   const knob = document.getElementById("knob");
   const alarm = document.getElementById("alarm");
+  let volumeSlider = document.getElementById("volumeSlider");
   let startTime = Date.now() - (TOTAL_DURATION_MS - remainingTimeMS);
   let isMouseDown = false;
+  
+  volumeSlider.addEventListener("input", function() {
+    alarm.volume = volumeSlider.value; // Set volume based on slider value
+  });
 
   const calculateAngle = (clickX, clickY) => {
     let angle = Math.atan2(clickY, clickX) + Math.PI / 2;
