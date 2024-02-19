@@ -25,3 +25,16 @@ html {
 #sector {
   fill: var(--sector-fill-color); /* Use CSS variable for color */
 }
+.volume-container {
+  width: 100px; /* Adjust width as needed */
+  margin: 20px; /* Adjust margin as needed */
+}
+
+input[type="range"] {
+  width: 100%;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
