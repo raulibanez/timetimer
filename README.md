@@ -2,7 +2,9 @@
 
 ## Overview 🌐
 
-Welcome to our Time Timer Tutorial – a playful yet practical project that harnesses the powers of ChatGPT, Glitch, HTML, CSS, and JavaScript. 🎨 This app was designed with the guidance of ChatGPT to teach K12 students about the possibilities of AI.
+Welcome to our Time Timer Tutorial – a playful yet practical project that harnesses the powers of ChatGPT, HTML, CSS, and JavaScript. 🎨 This app was designed with the guidance of ChatGPT to teach K12 students about the possibilities of AI.
+
+**Note:** This project was originally hosted on Glitch but has been migrated to GitHub Pages as Glitch is no longer available. The app is now fully open-source and hosted here for anyone to try and learn from.
 
 ## Features ✨
 
@@ -12,7 +14,7 @@ Welcome to our Time Timer Tutorial – a playful yet practical project that harn
 
 ## Usage 🕹️
 
-👉 You can access the Time Timer here: [https://timetimer.glitch.me/](https://timetimer.glitch.me/)
+👉 You can access the Time Timer here: [https://raulibanez.github.io/timetimer/](https://raulibanez.github.io/timetimer/)
 
 ⏱️ Starting off with a 15-minute countdown, but feel free to click around and set your own timer. Want 5 minutes of meditation or 30 minutes of workout? You do you!
 
